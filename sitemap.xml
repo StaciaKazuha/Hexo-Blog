@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.na4.cc/2023/08-19/red-better/</loc>
+    <loc>http://blog.na4.cc/posts/b151c165/</loc>
     
     <lastmod>2023-08-19</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/2023/07-27/random-banner/</loc>
+    <loc>http://blog.na4.cc/posts/6dbc28f6/</loc>
     
     <lastmod>2023-08-19</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/2023/07-27/new-blog/</loc>
+    <loc>http://blog.na4.cc/posts/682efb40/</loc>
     
     <lastmod>2023-08-19</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/2023/07-27/build-seedbox-on-buyvm/</loc>
+    <loc>http://blog.na4.cc/posts/421a8f48/</loc>
     
     <lastmod>2023-08-19</lastmod>
     
@@ -91,7 +91,14 @@
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/hexo/</loc>
+    <loc>http://blog.na4.cc/tags/cloudflare/</loc>
+    <lastmod>2023-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.na4.cc/tags/cloudflare-worker/</loc>
     <lastmod>2023-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -105,14 +112,7 @@
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/cloudflare/</loc>
-    <lastmod>2023-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.na4.cc/tags/cloudflare-worker/</loc>
+    <loc>http://blog.na4.cc/tags/hexo/</loc>
     <lastmod>2023-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
