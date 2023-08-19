@@ -91,14 +91,7 @@
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/cloudflare/</loc>
-    <lastmod>2023-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.na4.cc/tags/cloudflare-worker/</loc>
+    <loc>http://blog.na4.cc/tags/hexo/</loc>
     <lastmod>2023-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -112,7 +105,14 @@
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/hexo/</loc>
+    <loc>http://blog.na4.cc/tags/cloudflare/</loc>
+    <lastmod>2023-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.na4.cc/tags/cloudflare-worker/</loc>
     <lastmod>2023-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
