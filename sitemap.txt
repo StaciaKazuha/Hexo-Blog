@@ -19,5 +19,5 @@ http://blog.na4.cc/tags/python/
 http://blog.na4.cc/tags/private-tracker/
 http://blog.na4.cc/categories/pt/
 http://blog.na4.cc/categories/blog/
-http://blog.na4.cc/categories/pt/%E5%88%B7%E6%B5%81/
 http://blog.na4.cc/categories/pt/red/
+http://blog.na4.cc/categories/pt/%E5%88%B7%E6%B5%81/
