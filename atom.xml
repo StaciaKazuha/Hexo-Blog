@@ -102,11 +102,11 @@
     <category term="Blog" scheme="http://blog.na4.cc/categories/blog/"/>
     
     
-    <category term="Blog" scheme="http://blog.na4.cc/tags/blog/"/>
-    
     <category term="Cloudflare" scheme="http://blog.na4.cc/tags/cloudflare/"/>
     
     <category term="Cloudflare worker" scheme="http://blog.na4.cc/tags/cloudflare-worker/"/>
+    
+    <category term="Blog" scheme="http://blog.na4.cc/tags/blog/"/>
     
   </entry>
   
@@ -131,9 +131,9 @@
     <category term="Blog" scheme="http://blog.na4.cc/categories/blog/"/>
     
     
-    <category term="Hexo" scheme="http://blog.na4.cc/tags/hexo/"/>
-    
     <category term="Blog" scheme="http://blog.na4.cc/tags/blog/"/>
+    
+    <category term="Hexo" scheme="http://blog.na4.cc/tags/hexo/"/>
     
   </entry>
   
