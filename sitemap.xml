@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.na4.cc/posts/b151c165/</loc>
+    <loc>http://blog.na4.top/posts/b151c165/</loc>
     
     <lastmod>2023-08-21</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/posts/6dbc28f6/</loc>
+    <loc>http://blog.na4.top/posts/6dbc28f6/</loc>
     
     <lastmod>2023-08-19</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/posts/682efb40/</loc>
+    <loc>http://blog.na4.top/posts/682efb40/</loc>
     
     <lastmod>2023-08-19</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/posts/421a8f48/</loc>
+    <loc>http://blog.na4.top/posts/421a8f48/</loc>
     
     <lastmod>2023-08-19</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/about/index.html</loc>
+    <loc>http://blog.na4.top/about/index.html</loc>
     
     <lastmod>2023-07-27</lastmod>
     
@@ -48,100 +48,100 @@
   
 
   <url>
-    <loc>http://blog.na4.cc/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://blog.na4.cc/tags/red/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/tags/cloudflare/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/red-better/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/tags/cloudflare-worker/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/python/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/tags/blog/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/private-tracker/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/tags/buyvm/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/cloudflare/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/tags/seedbox/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/cloudflare-worker/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/tags/guide/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/blog/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/tags/qbittorrent/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/hexo/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/tags/%E5%88%B7%E6%B5%81/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/buyvm/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/tags/red/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/seedbox/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/tags/red-better/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/guide/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/tags/python/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/qbittorrent/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/tags/private-tracker/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/tags/%E5%88%B7%E6%B5%81/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/tags/hexo/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -149,29 +149,29 @@
 
   
   <url>
-    <loc>http://blog.na4.cc/categories/pt/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/categories/blog/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/categories/blog/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/categories/pt/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/categories/pt/%E5%88%B7%E6%B5%81/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/categories/pt/%E5%88%B7%E6%B5%81/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.na4.cc/categories/pt/red/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <loc>http://blog.na4.top/categories/pt/red/</loc>
+    <lastmod>2023-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

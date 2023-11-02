@@ -3,11 +3,11 @@
   <title>Stacia&#39;s Blog</title>
   
   <subtitle>Stacia的小站</subtitle>
-  <link href="http://blog.na4.cc/atom.xml" rel="self"/>
+  <link href="http://blog.na4.top/atom.xml" rel="self"/>
   
-  <link href="http://blog.na4.cc/"/>
+  <link href="http://blog.na4.top/"/>
   <updated>2023-08-21T23:27:55.892Z</updated>
-  <id>http://blog.na4.cc/</id>
+  <id>http://blog.na4.top/</id>
   
   <author>
     <name>StaciaKazuha</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>不再畏惧音乐种，合法速通联盟站敲门砖 —— RED Better!</title>
-    <link href="http://blog.na4.cc/posts/b151c165/"/>
-    <id>http://blog.na4.cc/posts/b151c165/</id>
+    <link href="http://blog.na4.top/posts/b151c165/"/>
+    <id>http://blog.na4.top/posts/b151c165/</id>
     <published>2023-08-19T05:47:03.000Z</published>
     <updated>2023-08-21T23:27:55.892Z</updated>
     
@@ -30,25 +30,25 @@
     
     
     
-    <category term="PT" scheme="http://blog.na4.cc/categories/pt/"/>
+    <category term="PT" scheme="http://blog.na4.top/categories/pt/"/>
     
-    <category term="RED" scheme="http://blog.na4.cc/categories/pt/red/"/>
+    <category term="RED" scheme="http://blog.na4.top/categories/pt/red/"/>
     
     
-    <category term="RED" scheme="http://blog.na4.cc/tags/red/"/>
+    <category term="RED" scheme="http://blog.na4.top/tags/red/"/>
     
-    <category term="RED-Better" scheme="http://blog.na4.cc/tags/red-better/"/>
+    <category term="RED-Better" scheme="http://blog.na4.top/tags/red-better/"/>
     
-    <category term="Python" scheme="http://blog.na4.cc/tags/python/"/>
+    <category term="Python" scheme="http://blog.na4.top/tags/python/"/>
     
-    <category term="Private Tracker" scheme="http://blog.na4.cc/tags/private-tracker/"/>
+    <category term="Private Tracker" scheme="http://blog.na4.top/tags/private-tracker/"/>
     
   </entry>
   
   <entry>
     <title>用BuyVM搭建刷流环境</title>
-    <link href="http://blog.na4.cc/posts/421a8f48/"/>
-    <id>http://blog.na4.cc/posts/421a8f48/</id>
+    <link href="http://blog.na4.top/posts/421a8f48/"/>
+    <id>http://blog.na4.top/posts/421a8f48/</id>
     <published>2023-07-27T13:36:59.000Z</published>
     <updated>2023-08-19T09:50:22.051Z</updated>
     
@@ -63,27 +63,27 @@
     
     
     
-    <category term="PT" scheme="http://blog.na4.cc/categories/pt/"/>
+    <category term="PT" scheme="http://blog.na4.top/categories/pt/"/>
     
-    <category term="刷流" scheme="http://blog.na4.cc/categories/pt/%E5%88%B7%E6%B5%81/"/>
+    <category term="刷流" scheme="http://blog.na4.top/categories/pt/%E5%88%B7%E6%B5%81/"/>
     
     
-    <category term="BuyVM" scheme="http://blog.na4.cc/tags/buyvm/"/>
+    <category term="BuyVM" scheme="http://blog.na4.top/tags/buyvm/"/>
     
-    <category term="Seedbox" scheme="http://blog.na4.cc/tags/seedbox/"/>
+    <category term="Seedbox" scheme="http://blog.na4.top/tags/seedbox/"/>
     
-    <category term="Guide" scheme="http://blog.na4.cc/tags/guide/"/>
+    <category term="Guide" scheme="http://blog.na4.top/tags/guide/"/>
     
-    <category term="qBittorrent" scheme="http://blog.na4.cc/tags/qbittorrent/"/>
+    <category term="qBittorrent" scheme="http://blog.na4.top/tags/qbittorrent/"/>
     
-    <category term="刷流" scheme="http://blog.na4.cc/tags/%E5%88%B7%E6%B5%81/"/>
+    <category term="刷流" scheme="http://blog.na4.top/tags/%E5%88%B7%E6%B5%81/"/>
     
   </entry>
   
   <entry>
     <title>实现随机Banner</title>
-    <link href="http://blog.na4.cc/posts/682efb40/"/>
-    <id>http://blog.na4.cc/posts/682efb40/</id>
+    <link href="http://blog.na4.top/posts/682efb40/"/>
+    <id>http://blog.na4.top/posts/682efb40/</id>
     <published>2023-07-27T12:28:02.000Z</published>
     <updated>2023-08-19T09:51:33.051Z</updated>
     
@@ -99,21 +99,21 @@
     
     
     
-    <category term="Blog" scheme="http://blog.na4.cc/categories/blog/"/>
+    <category term="Blog" scheme="http://blog.na4.top/categories/blog/"/>
     
     
-    <category term="Cloudflare" scheme="http://blog.na4.cc/tags/cloudflare/"/>
+    <category term="Cloudflare" scheme="http://blog.na4.top/tags/cloudflare/"/>
     
-    <category term="Cloudflare worker" scheme="http://blog.na4.cc/tags/cloudflare-worker/"/>
+    <category term="Cloudflare worker" scheme="http://blog.na4.top/tags/cloudflare-worker/"/>
     
-    <category term="Blog" scheme="http://blog.na4.cc/tags/blog/"/>
+    <category term="Blog" scheme="http://blog.na4.top/tags/blog/"/>
     
   </entry>
   
   <entry>
     <title>New_Blog</title>
-    <link href="http://blog.na4.cc/posts/6dbc28f6/"/>
-    <id>http://blog.na4.cc/posts/6dbc28f6/</id>
+    <link href="http://blog.na4.top/posts/6dbc28f6/"/>
+    <id>http://blog.na4.top/posts/6dbc28f6/</id>
     <published>2023-07-27T09:48:14.000Z</published>
     <updated>2023-08-19T09:51:39.913Z</updated>
     
@@ -128,12 +128,12 @@
     
     
     
-    <category term="Blog" scheme="http://blog.na4.cc/categories/blog/"/>
+    <category term="Blog" scheme="http://blog.na4.top/categories/blog/"/>
     
     
-    <category term="Blog" scheme="http://blog.na4.cc/tags/blog/"/>
+    <category term="Blog" scheme="http://blog.na4.top/tags/blog/"/>
     
-    <category term="Hexo" scheme="http://blog.na4.cc/tags/hexo/"/>
+    <category term="Hexo" scheme="http://blog.na4.top/tags/hexo/"/>
     
   </entry>
   
